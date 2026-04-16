@@ -2,6 +2,9 @@
 
 A simple automation + AI project that analyzes resumes and compares them with job descriptions.
 
+## Demo
+ https://resume-analyzer-karghpqdmmdsazyeccj2aa.streamlit.app/
+
 ## 🚀 Features
 - Extracts text from PDF resumes
 - Calculates match score using TF-IDF
@@ -20,3 +23,5 @@ A simple automation + AI project that analyzes resumes and compares them with jo
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+````
